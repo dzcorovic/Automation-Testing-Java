@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58971" started-at="2020-07-15T13:11:10 CEST" finished-at="2020-07-15T13:12:09 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58971" started-at="2020-07-15T13:11:10 CEST" finished-at="2020-07-15T13:12:09 CEST">
+      <class name="testpage.AutomationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testpage.AutomationTest@1e6d1014]" name="setUp" is-config="true" duration-ms="16216" started-at="2020-07-15T13:11:10 CEST" finished-at="2020-07-15T13:11:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickHideButton()[pri:0, instance:testpage.AutomationTest@1e6d1014]" name="clickHideButton" duration-ms="2263" started-at="2020-07-15T13:11:26 CEST" finished-at="2020-07-15T13:11:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHideButton -->
+        <test-method status="PASS" signature="VerifyText()[pri:1, instance:testpage.AutomationTest@1e6d1014]" name="VerifyText" duration-ms="111" started-at="2020-07-15T13:11:28 CEST" finished-at="2020-07-15T13:11:28 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyText -->
+        <test-method status="PASS" signature="emuCheckBox()[pri:2, instance:testpage.AutomationTest@1e6d1014]" name="emuCheckBox" duration-ms="86" started-at="2020-07-15T13:11:28 CEST" finished-at="2020-07-15T13:11:29 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emuCheckBox -->
+        <test-method status="PASS" signature="verifyNumOfCheckBoxes()[pri:3, instance:testpage.AutomationTest@1e6d1014]" name="verifyNumOfCheckBoxes" duration-ms="48" started-at="2020-07-15T13:11:29 CEST" finished-at="2020-07-15T13:11:29 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNumOfCheckBoxes -->
+        <test-method status="PASS" signature="selectRadioButton()[pri:4, instance:testpage.AutomationTest@1e6d1014]" name="selectRadioButton" duration-ms="2175" started-at="2020-07-15T13:11:29 CEST" finished-at="2020-07-15T13:11:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRadioButton -->
+        <test-method status="PASS" signature="selNahlaCourse()[pri:5, instance:testpage.AutomationTest@1e6d1014]" name="selNahlaCourse" duration-ms="2237" started-at="2020-07-15T13:11:31 CEST" finished-at="2020-07-15T13:11:33 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selNahlaCourse -->
+        <test-method status="PASS" signature="PromptBox()[pri:6, instance:testpage.AutomationTest@1e6d1014]" name="PromptBox" duration-ms="4147" started-at="2020-07-15T13:11:33 CEST" finished-at="2020-07-15T13:11:37 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PromptBox -->
+        <test-method status="PASS" signature="PrompBoxText()[pri:7, instance:testpage.AutomationTest@1e6d1014]" name="PrompBoxText" duration-ms="103" started-at="2020-07-15T13:11:37 CEST" finished-at="2020-07-15T13:11:37 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrompBoxText -->
+        <test-method status="PASS" signature="getNumberOfRows()[pri:8, instance:testpage.AutomationTest@1e6d1014]" name="getNumberOfRows" duration-ms="2023" started-at="2020-07-15T13:11:37 CEST" finished-at="2020-07-15T13:11:39 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getNumberOfRows -->
+        <test-method status="PASS" signature="getFirstAndLastNameOfStudents()[pri:9, instance:testpage.AutomationTest@1e6d1014]" name="getFirstAndLastNameOfStudents" duration-ms="2310" started-at="2020-07-15T13:11:39 CEST" finished-at="2020-07-15T13:11:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstAndLastNameOfStudents -->
+        <test-method status="PASS" signature="newBrowser()[pri:10, instance:testpage.AutomationTest@1e6d1014]" name="newBrowser" duration-ms="4288" started-at="2020-07-15T13:11:42 CEST" finished-at="2020-07-15T13:11:46 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newBrowser -->
+        <test-method status="PASS" signature="getUrl1()[pri:11, instance:testpage.AutomationTest@1e6d1014]" name="getUrl1" duration-ms="1048" started-at="2020-07-15T13:11:46 CEST" finished-at="2020-07-15T13:11:47 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl1 -->
+        <test-method status="PASS" signature="nahlaTim()[pri:12, instance:testpage.AutomationTest@1e6d1014]" name="nahlaTim" duration-ms="6096" started-at="2020-07-15T13:11:47 CEST" finished-at="2020-07-15T13:11:53 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nahlaTim -->
+        <test-method status="PASS" signature="getUrl2()[pri:13, instance:testpage.AutomationTest@1e6d1014]" name="getUrl2" duration-ms="23" started-at="2020-07-15T13:11:53 CEST" finished-at="2020-07-15T13:11:53 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl2 -->
+        <test-method status="PASS" signature="closeNahlaBrowser()[pri:14, instance:testpage.AutomationTest@1e6d1014]" name="closeNahlaBrowser" duration-ms="2107" started-at="2020-07-15T13:11:53 CEST" finished-at="2020-07-15T13:11:55 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeNahlaBrowser -->
+        <test-method status="PASS" signature="dragAndDrop()[pri:15, instance:testpage.AutomationTest@1e6d1014]" name="dragAndDrop" duration-ms="2394" started-at="2020-07-15T13:11:55 CEST" finished-at="2020-07-15T13:11:58 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method status="PASS" signature="moveMouse()[pri:16, instance:testpage.AutomationTest@1e6d1014]" name="moveMouse" duration-ms="2198" started-at="2020-07-15T13:11:58 CEST" finished-at="2020-07-15T13:12:00 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveMouse -->
+        <test-method status="PASS" signature="ts()[pri:17, instance:testpage.AutomationTest@1e6d1014]" name="ts" duration-ms="2446" started-at="2020-07-15T13:12:00 CEST" finished-at="2020-07-15T13:12:02 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ts -->
+        <test-method status="PASS" signature="clickVolontiraj()[pri:18, instance:testpage.AutomationTest@1e6d1014]" name="clickVolontiraj" duration-ms="3620" started-at="2020-07-15T13:12:02 CEST" finished-at="2020-07-15T13:12:06 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickVolontiraj -->
+        <test-method status="PASS" signature="getUrl3()[pri:19, instance:testpage.AutomationTest@1e6d1014]" name="getUrl3" duration-ms="2029" started-at="2020-07-15T13:12:06 CEST" finished-at="2020-07-15T13:12:08 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testpage.AutomationTest@1e6d1014]" name="tearDown" is-config="true" duration-ms="799" started-at="2020-07-15T13:12:08 CEST" finished-at="2020-07-15T13:12:09 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpage.AutomationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
